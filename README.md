@@ -20,4 +20,5 @@
 
 ## Example
 Contoh dikombinasikan dengan dengan Whatsapp API untuk monitoring server
-<img src=node_screenshoot_service/media/screen-server.png"/>
+
+<img src="node_screenshoot_service/media/screen-server.png"/>
