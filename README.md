@@ -17,3 +17,7 @@
 3. Run script : `npm start`
 4. Tersimpan dalam format (.jpg) difolder `media`
 5. Timeout cronjob service 10 detik
+
+## Example
+Contoh dikombinasikan dengan dengan Whatsapp API untuk monitoring server
+<img src=node_screenshoot_service/media/screen-server.png"/>
